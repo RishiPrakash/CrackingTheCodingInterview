@@ -1,0 +1,26 @@
+Dynamic Programming cheat sheet
+Step 1. Find Recursion
+2. Find where something is getting computed more than one time
+3. Put that computation as a cache/Array/map
+4. Start recursion for subpart i.e try to think how a problem for n number would work with n-1 numbers
+5. Always keep a base case to end the recursion(mostly if would be for sub-problem with 0 or 1 elements)
+Recompute with cache
+This is DP
+
+Simple DP Programs
+1. Triple Step
+2. Robot in a grid
+3. Longest Common Subsequence  - just length
+4. Longest Common Subsequence  - Print subsequence also
+5. Longest Common Substring  -  just length
+6. Longest Common Substring  - print substring also
+
+How to Approach a DP Problem:
+
+Point 1.
+1. Create a recursive solution ( First high complexity solution)
+2. Now either create an iterative solution bottom to top (i=0 to n)
+
+3. Or memoize the same recursive solution.
+  3.i. In this either you can keep size of problem same and just move pointers
+  3.ii. Or each time can make a choice of passing a smaller element set
