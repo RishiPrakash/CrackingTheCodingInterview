@@ -24,3 +24,4 @@ Point 1.
 3. Or memoize the same recursive solution.
   3.i. In this either you can keep size of problem same and just move pointers
   3.ii. Or each time can make a choice of passing a smaller element set
+4. Idea is to choose or not choose. Any possible element can be taken or left.That makes the core of recursion  
