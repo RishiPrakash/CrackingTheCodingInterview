@@ -1,5 +1,6 @@
 ### CrackingTheCodingInterview
-
+#### Section 0 Asymptotic Complexity  
+ * https://medium.com/@ariel.salem1989/an-easy-to-use-guide-to-big-o-time-complexity-5dcf4be8a444
 ##### SECTION 1 Dynamic Programming
 
 > DP Problem Easy to Hard
