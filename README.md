@@ -23,7 +23,7 @@
 2. Greedy Coloring of Graphs
 3. Job Sequencing with Deadlines
 4. Huffman Coding https://www.codesdope.com/course/algorithms-huffman-codes/
-5. Kruskal Algorithm for MST
+5. Kruskal Algorithm for MST https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/
 6. Prim's Algorithm for MST
 7. Single Source Shortest Path
 ##### SECTION 3 Graphs
