@@ -1,5 +1,6 @@
 ### CrackingTheCodingInterview
-
+#### Section 0 Asymptotic Complexity  
+ * https://medium.com/@ariel.salem1989/an-easy-to-use-guide-to-big-o-time-complexity-5dcf4be8a444
 ##### SECTION 1 Dynamic Programming
 
 > DP Problem Easy to Hard
@@ -22,10 +23,46 @@
 1. Activity Selection problem
 2. Greedy Coloring of Graphs
 3. Job Sequencing with Deadlines
-4. Huffman Coding
-5. Kruskal Algorithm for MST
+4. Huffman Coding https://www.codesdope.com/course/algorithms-huffman-codes/
+5. Kruskal Algorithm for MST https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/
 6. Prim's Algorithm for MST
 7. Single Source Shortest Path
 ##### SECTION 3 Graphs
+1. BFS
+2. DFS
+3. Single Source shortest Path (Dijkstra)
+4. All source shortest Path (Floyd Warshall)
+5. Prim's MST
+6. Kruskal's MST
+7. Topological Sort
+8. Johnson's Algorithm
+9. Articulation Points in Graph
+10. Bridges In Graph
+11. Detect a cycle in graph
+  11.a Using BFS/DFS
+  11.b Union Find 
+  11.c Union Find with Path compression and Node value
+12. BackTracking - Queens problem
+
 ##### SECTION 4 Trees
 ##### SECTION 4 Heaps & Maps
+
+
+-----------------------------------------------Pertaining To Java---------------------------------------------------------------
+##### SECTION 5 Design Patterns
+1. Observer Pattern
+2. Decorator Pattern
+3. Factory Pattern
+4. Singleton Pattern
+5. Command Pattern
+6. Adapter/Facade Pattern
+7. Template Method Pattern
+8. Iterator and Composite Pattern
+9. State Pattern
+10. Proxy Pattern
+11. Compound Pattern
+
+
+-----------------------------------------------Java Frameworks------------------------------------------------------------------
+##### SECTION 6 Spring
+##### SECTION 7 SpringBoot
