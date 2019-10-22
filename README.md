@@ -30,3 +30,7 @@
 ##### SECTION 3 Graphs
 ##### SECTION 4 Trees
 ##### SECTION 4 Heaps & Maps
+
+
+-----------------------------------------------Pertaining To Java---------------------------------------------------------------
+##### SECTION 5 Design Patterns
