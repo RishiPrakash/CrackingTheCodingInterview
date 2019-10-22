@@ -37,7 +37,12 @@
 7. Topological Sort
 8. Johnson's Algorithm
 9. Articulation Points in Graph
-10. 
+10. Bridges In Graph
+11. Detect a cycle in graph
+  11.a Using BFS/DFS
+  11.b Union Find 
+  11.c Union Find with Path compression and Node value
+12. BackTracking - Queens problem
 
 ##### SECTION 4 Trees
 ##### SECTION 4 Heaps & Maps
@@ -45,6 +50,18 @@
 
 -----------------------------------------------Pertaining To Java---------------------------------------------------------------
 ##### SECTION 5 Design Patterns
+1. Observer Pattern
+2. Decorator Pattern
+3. Factory Pattern
+4. Singleton Pattern
+5. Command Pattern
+6. Adapter/Facade Pattern
+7. Template Method Pattern
+8. Iterator and Composite Pattern
+9. State Pattern
+10. Proxy Pattern
+11. Compound Pattern
+
 
 -----------------------------------------------Java Frameworks------------------------------------------------------------------
 ##### SECTION 6 Spring
