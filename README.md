@@ -28,6 +28,17 @@
 6. Prim's Algorithm for MST
 7. Single Source Shortest Path
 ##### SECTION 3 Graphs
+1. BFS
+2. DFS
+3. Single Source shortest Path (Dijkstra)
+4. All source shortest Path (Floyd Warshall)
+5. Prim's MST
+6. Kruskal's MST
+7. Topological Sort
+8. Johnson's Algorithm
+9. Articulation Points in Graph
+10. 
+
 ##### SECTION 4 Trees
 ##### SECTION 4 Heaps & Maps
 
