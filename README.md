@@ -34,7 +34,7 @@
 4. All source shortest Path (Floyd Warshall)
 5. Prim's MST
 6. Kruskal's MST
-7. Topological Sort
+7. Topological Sort (used in eg. to determine project build order in multiModule Project)
 8. Johnson's Algorithm
 9. Articulation Points in Graph
 10. Bridges In Graph
