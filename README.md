@@ -66,3 +66,7 @@
 -----------------------------------------------Java Frameworks------------------------------------------------------------------
 ##### SECTION 6 Spring
 ##### SECTION 7 SpringBoot
+##### SECTION 8 Continuous Integration Tools
+1. maven : Automate Project building
+  1.a https://www.baeldung.com/maven
+  1.b https://www.baeldung.com/maven-multi-module
