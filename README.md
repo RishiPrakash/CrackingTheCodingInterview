@@ -70,3 +70,7 @@
 ###### 1. maven : Automate Project building
 1.a https://www.baeldung.com/maven <br />
 1.b https://www.baeldung.com/maven-multi-module <br />
+
+------------------------------------------------Java InterLayer Integration-------------------------------------------------------
+###### XSD to POJO Conversion
+1.a. https://www.journaldev.com/1312/jaxb2-maven-plugin-xjc-example-generate-java-classes-xsd
