@@ -71,9 +71,9 @@
 1.a https://www.baeldung.com/maven <br />
 1.b https://www.baeldung.com/maven-multi-module <br />
 ##### SECTION 9 Spring Security 
-  9.a https://www.baeldung.com/spring-security-basic-authentication
-  9.b https://www.baeldung.com/spring-security-multiple-entry-points
+  9.a https://www.baeldung.com/spring-security-basic-authentication <br />
+  9.b https://www.baeldung.com/spring-security-multiple-entry-points <br />
 
 ------------------------------------------------Java InterLayer Integration-------------------------------------------------------
-###### XSD to POJO Conversion
+##### XSD to POJO Conversion
 1.a. https://www.journaldev.com/1312/jaxb2-maven-plugin-xjc-example-generate-java-classes-xsd
