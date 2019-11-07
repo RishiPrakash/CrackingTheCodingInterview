@@ -70,6 +70,9 @@
 ###### 1. maven : Automate Project building
 1.a https://www.baeldung.com/maven <br />
 1.b https://www.baeldung.com/maven-multi-module <br />
+##### SECTION 9 Spring Security 
+  9.a https://www.baeldung.com/spring-security-basic-authentication
+  9.b https://www.baeldung.com/spring-security-multiple-entry-points
 
 ------------------------------------------------Java InterLayer Integration-------------------------------------------------------
 ###### XSD to POJO Conversion
