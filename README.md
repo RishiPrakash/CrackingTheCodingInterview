@@ -74,6 +74,7 @@
   9.a https://www.baeldung.com/spring-security-basic-authentication <br />
   9.b https://www.baeldung.com/spring-security-multiple-entry-points <br />
   9.c https://www.devglan.com/spring-security/spring-boot-security-rest-basic-authentication  <br />
+  9.d https://www.devglan.com/spring-security/spring-boot-security-rest-basic-authentication
   
 ###### Spring Question
   -What is @configuration annotation?
