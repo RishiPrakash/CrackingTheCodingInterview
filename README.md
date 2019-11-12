@@ -93,3 +93,4 @@
   b. https://tedvinke.wordpress.com/2014/02/13/mockito-why-you-should-not-use-injectmocks-annotation-to-autowire-fields/
   c. https://stackoverflow.com/questions/16467685/difference-between-mock-and-injectmocks
   d. https://stackoverflow.com/questions/12827580/mocking-vs-spying-in-mocking-frameworks
+  e. https://lkrnac.net/blog/2014/01/mock-autowired-fields/
