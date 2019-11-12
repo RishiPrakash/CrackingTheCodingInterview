@@ -85,3 +85,9 @@
 ------------------------------------------------Java InterLayer Integration-------------------------------------------------------
 ##### XSD to POJO Conversion
 1.a. https://www.journaldev.com/1312/jaxb2-maven-plugin-xjc-example-generate-java-classes-xsd
+
+------------------------------------------------Testing Framework-------------------------------------------------------
+##### JUnit
+##### Mockito
+  a. https://dzone.com/articles/a-guide-to-mocking-with-mockito
+  b. https://tedvinke.wordpress.com/2014/02/13/mockito-why-you-should-not-use-injectmocks-annotation-to-autowire-fields/
