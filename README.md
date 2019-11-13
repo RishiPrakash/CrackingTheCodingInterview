@@ -96,3 +96,7 @@
   e. https://lkrnac.net/blog/2014/01/mock-autowired-fields/<br />
   f. https://www.springboottutorial.com/spring-boot-unit-testing-and-mocking-with-mockito-and-junit<br />
   g. https://www.tutorialspoint.com/mockito/index.htm
+
+------------------------------------------------Rest Template (To call Data API from Business API)-------------------------------
+##### RestTemplate
+  a. https://www.baeldung.com/rest-template<br />
