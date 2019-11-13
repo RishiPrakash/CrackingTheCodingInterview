@@ -97,6 +97,6 @@
   f. https://www.springboottutorial.com/spring-boot-unit-testing-and-mocking-with-mockito-and-junit<br />
   g. https://www.tutorialspoint.com/mockito/index.htm
 
-------------------------------------------------Rest Template (To call Data API from Business API)-------------------------------
+------------------------------------------------Spring REST Client--------------------------------------------------------
 ##### RestTemplate
   a. https://www.baeldung.com/rest-template<br />
