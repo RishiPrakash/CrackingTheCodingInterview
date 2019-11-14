@@ -67,6 +67,7 @@
 ##### SECTION 6 Spring
 6.a https://www.baeldung.com/spring-profiles
 6.b https://dzone.com/articles/spring-profiles-or-maven
+6.c https://dzone.com/articles/spring-component-scan
 ##### SECTION 7 SpringBoot
 ##### SECTION 8 Continuous Integration Tools
 ###### 1. maven : Automate Project building
