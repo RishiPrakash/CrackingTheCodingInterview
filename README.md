@@ -100,5 +100,6 @@
 ------------------------------------------------Spring REST Client--------------------------------------------------------
 ##### RestTemplate
   a. https://www.baeldung.com/rest-template<br />
+  b. https://www.journaldev.com/17096/spring-resttemplate-example
 ##### RestTemplate Configuration 
   a.https://www.baeldung.com/spring-rest-template-builder<br />
