@@ -79,6 +79,7 @@
   9.b https://www.baeldung.com/spring-security-multiple-entry-points <br />
   9.c https://www.devglan.com/spring-security/spring-boot-security-rest-basic-authentication  <br />
   9.d https://www.devglan.com/spring-security/spring-boot-security-rest-basic-authentication
+  9.e https://stackoverflow.com/questions/52627023/how-can-i-create-profiles-with-spring-boot-yaml ( Spring Profile and why to use them)
   
 ###### Spring Question
   -What is @configuration annotation?
